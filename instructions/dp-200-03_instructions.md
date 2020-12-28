@@ -133,8 +133,6 @@ The main tasks for this exercise are as follows:
     - **Pool**: **None**
 
     - **Databricks Runtime Version**: **Runtime: 7.4 (Scala 2.12, Spark 3.0.1)**
-    
-    - **Python version**: **2**
 
     - Make sure you select the **Terminate after 60** minutes of inactivity check box. If the cluster isn't being used, provide a duration (in minutes) to terminate the cluster.
 
@@ -172,7 +170,7 @@ The main tasks for this exercise are as follows:
 
 ### Task 1: Confirm the creation of the Databricks cluster
 
-1. Return back to Microsoft Edge, under **Interactive Clusters** confirm that the state column is set to **Running** for the cluster named **awdbclstudxx**, where **xx** are your initials.
+1. Return back to Microsoft Edge, under **All-Purpose Clusters** confirm that the state column is set to **Running** for the cluster named **awdbclstudxx**, where **xx** are your initials.
 
 ### Task 2: Collect the Azure Data Lake Store Gen2 account name
 
